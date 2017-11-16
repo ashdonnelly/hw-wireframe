@@ -1,3 +1,8 @@
+Week 1 Homework
+
 Wireframe
 
-Week 1 homework for learning: wireframing; html; CSS
+Demonstrates: 
+wireframing; 
+html; 
+CSS
